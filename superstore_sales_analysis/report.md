@@ -30,7 +30,7 @@
 ---
 
 ## 🗂 Артефакты
-- Excel/Sheets: `excel/superstore_sales_analysis.xlsx` *(или ссылка ниже)*  
+- Excel/Sheets: `excel/superstore_sales_analysis.xlsx` *[(или ссылка ниже)](https://docs.google.com/spreadsheets/d/1P0UjnlYBW_O9ZP9x8rAJJOhcQTNY-yaTYUpibDjDo0U/edit?usp=sharing)*  
 - SQL: `sql/sales_analysis.sql`  
 - Power BI: `powerbi/superstore_dashboard.pbix` *(или Looker Studio URL)*  
 - Скриншоты: `visuals/*.png`
