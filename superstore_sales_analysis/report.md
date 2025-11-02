@@ -66,7 +66,7 @@
 
 ### 📊 Артефакты
 
-📄 Google Sheets: [Superstore Sales Analysis](https://docs.google.com/spreadsheets/d/ТВОЙ_ID)
+📄 Google Sheets: [Superstore Sales Analysis]https://docs.google.com/spreadsheets/d/1P0UjnlYBW_O9ZP9x8rAJJOhcQTNY-yaTYUpibDjDo0U/edit?usp=sharing
 
 📁 Локальные данные: `superstore_sales_analysis/data/Superstore.csv`
 
