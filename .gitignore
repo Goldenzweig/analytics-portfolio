@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Большие/бинарные файлы (исключаем по умолчанию)
+*.xlsx
+*.xlsb
+*.csv
+*.pbix
+
+# Jupyter / Python (на будущее)
+__pycache__/
+.ipynb_checkpoints/
+.env
