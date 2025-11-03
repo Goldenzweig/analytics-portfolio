@@ -110,5 +110,16 @@
 ---
 
 ### День 3 — Мини-дашборд
-- [ ] KPI-карточки + 2–3 графика  
-- [ ] Экспорт PNG → `visuals/`
+
+#### 🎯 Цель
+Создать интерактивный лист с KPI и основными визуализациями.
+
+#### ✅ Выполнено
+- Построены KPI карточки (Sales, Profit, Margin, AOV)
+- Добавлены графики (Category, Region, Monthly)
+- Оформлен дашборд в едином стиле
+- Экспортирован в PNG `visuals/dashboard.png`
+
+#### 📊 Артефакты
+📄 [Google Sheets Dashboard]https://docs.google.com/spreadsheets/d/1P0UjnlYBW_O9ZP9x8rAJJOhcQTNY-yaTYUpibDjDo0U/edit?usp=sharing  
+📁 `superstore_sales_analysis/visuals/dashboard.png`
